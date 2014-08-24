@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface ASViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIButton *myButton;
 
 @end
